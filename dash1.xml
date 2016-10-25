@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore1>
+<city>
+<label>My First dataset</label>
+<fillColor>rgba(220,250,220,0.2)</fillColor>
+<strokeColor>rgba(220,220,220,1)</strokeColor>
+<pointColor>rgba(220,220,220,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(220,220,220,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Second dataset</label>
+<fillColor>rgba(220,20,220,0.2)</fillColor>
+<strokeColor>rgba(220,220,220,1)</strokeColor>
+<pointColor>rgba(220,220,220,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(220,220,220,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Third dataset</label>
+<fillColor>rgba(151,187,205,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Fourth dataset</label>
+<fillColor>rgba(151,17,105,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Fifth dataset</label>
+<fillColor>rgba(15,187,25,0.2)</fillColor>
+<strokeColor>rgba(51,87,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Sixth dataset</label>
+<fillColor>rgba(51,17,251,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Seventh dataset</label>
+<fillColor>rgba(151,17,205,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Eight dataset</label>
+<fillColor>rgba(151,217,05,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Nine dataset</label>
+<fillColor>rgba(151,187,205,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Ten dataset</label>
+<fillColor>rgba(151,187,205,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+<city>
+<label>My Eleven dataset</label>
+<fillColor>rgba(151,187,205,0.2)</fillColor>
+<strokeColor>rgba(151,187,205,1)</strokeColor>
+<pointColor>rgba(151,187,205,1)</pointColor>
+<pointStrokeColor>#fff</pointStrokeColor>
+<pointHighlightFill>#fff</pointHighlightFill>
+<pointHighlightStroke>rgba(151,187,205,1)</pointHighlightStroke>
+</city>
+
+</bookstore1>
